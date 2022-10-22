@@ -81,15 +81,24 @@
 </div>  
  
 <br/>  
+
+
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryGaydabura&hide_border=true&layout=compact" align="left" />  
 <br/>  
 <br/>  
 <br/>  
 <br/>  
-<br />
+<br/>
+
+
+
+
+ ## Visitors:
 
 ![Visitor Count](https://profile-counter.glitch.me/DmitryGaydabura/count.svg)
+
+
 
 [![](https://www.codewars.com/users/Dimitrius1011/badges/small)](https://www.codewars.com/users/Dimitrius1011/badges/small)
 
