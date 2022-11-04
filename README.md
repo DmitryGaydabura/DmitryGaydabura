@@ -1,7 +1,7 @@
 
   
 
-### **<div align="center">I'm Dmitry, a junior Java developer from Ukraine 👨‍💻 </div>**  
+### **<div align="center">I'm Dmitry, a Java developer from Ukraine 👨‍💻 </div>**  
   
 
 - 🔭 I’m currently working on [Store Project](https://github.com/ViacheslavDubovskyi/Store) with great team!  
