@@ -13,7 +13,7 @@
 -  💻I am keen on machine learning and creating web applications  
   
 
-- ⚡ Currently, I am looking for a remote position of Junior Java Developer!  
+- ⚡ Currently, I am an Intern in ProfITSoft & VData!  
   
 
 <br/>  
