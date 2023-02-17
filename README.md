@@ -4,16 +4,16 @@
 ### **<div align="center">I'm Dmitry, a Java developer from Ukraine 👨‍💻 </div>**  
   
 
-- 🔭 I’m currently working on [Store Project](https://github.com/ViacheslavDubovskyi/Store) with great team!  
+- 🔭 I’m currently working at Vareger team!  
   
 
-- 🌱 I am learning Spring Boot and Scala  
+- 🌱 I am learning Spring Boot, Python and ML!  
   
 
 -  💻I am keen on machine learning and creating web applications  
   
 
-- ⚡ Currently, I am an Intern in ProfITSoft & VData!  
+- ⚡ Currently, I am Junior Java Developer!  
   
 
 <br/>  
