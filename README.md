@@ -18,7 +18,7 @@
 
 ### 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,mysql,git,aws,kotlin,python,docker,kubernetes" />
+  <img src="tech.svg" alt="Animated banner" width="100%" />
 </p>
 
 ---
