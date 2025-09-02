@@ -38,12 +38,13 @@
 
   <g transform="translate(32,48)">
     <text class="ascii" xml:space="preserve">
-      <tspan x="0" dy="0">  ____   __  __  ___  _____  ____   _   _   __   __</tspan>
-      <tspan x="0" dy="26"> |  _ \ |  \/  ||_ _||_   _||  _ \ | | | |  \ \ / /</tspan>
-      <tspan x="0" dy="26"> | | | || |\/| | | |   | |  | | | || | | |   \ V / </tspan>
-      <tspan x="0" dy="26"> | |_| || |  | | | |   | |  | |_| || |_| |    | |  </tspan>
-      <tspan x="0" dy="26"> |____/ |_|  |_||___|  |_|  |____/  \___/     |_|  </tspan>
-      <tspan x="0" dy="40">   Dmitry · Java · Spring · ML · IntelliJ Plugins</tspan>
+      <tspan x="0" dy="0">░█▀▄░█▄█░▀█▀░▀█▀░█▀▄░█░█░░░█▀▀░█▀█░█░█░█▀▄░█▀█░█▀▄░█░█░█▀▄░█▀█</tspan>
+      <tspan x="0" dy="26">░█░█░█░█░░█░░░█░░█▀▄░░█░░░░█░█░█▀█░░█░░█░█░█▀█░█▀▄░█░█░█▀▄░█▀█</tspan>
+      <tspan x="0" dy="26">░▀▀░░▀░▀░▀▀▀░░▀░░▀░▀░░▀░░░░▀▀▀░▀░▀░░▀░░▀▀░░▀░▀░▀▀░░▀▀▀░▀░▀░▀░▀</tspan>
+      <tspan x="0" dy="40">  · Java · Spring · ML · IntelliJ Plugins</tspan>
+
+
+
     </text>
   </g>
 </svg>
