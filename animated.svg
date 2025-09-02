@@ -1,0 +1,49 @@
+<svg width="960" height="260" viewBox="0 0 960 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradMove" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="-20%" stop-color="#7B61FF">
+        <animate attributeName="offset" values="-0.2;1.2" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="40%" stop-color="#00E5FF">
+        <animate attributeName="offset" values="0;1.4" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="120%" stop-color="#FF8A00">
+        <animate attributeName="offset" values="0.2;1.6" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .bg { fill:#0d0b1f }
+      .ascii {
+        font-family: "JetBrains Mono","Fira Mono","Cascadia Code","Consolas","Courier New",monospace;
+        font-size: 20px;
+        fill: url(#gradMove);
+        filter: url(#glow);
+        animation: pulse 2.5s ease-in-out infinite;
+        letter-spacing: 0.5px;
+      }
+      @keyframes pulse { 0%{opacity:.85} 50%{opacity:1} 100%{opacity:.85} }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="100%" height="100%" rx="16"/>
+
+  <g transform="translate(32,48)">
+    <text class="ascii" xml:space="preserve">
+      <tspan x="0" dy="0">  ____   __  __  ___  _____  ____   _   _   __   __</tspan>
+      <tspan x="0" dy="26"> |  _ \ |  \/  ||_ _||_   _||  _ \ | | | |  \ \ / /</tspan>
+      <tspan x="0" dy="26"> | | | || |\/| | | |   | |  | | | || | | |   \ V / </tspan>
+      <tspan x="0" dy="26"> | |_| || |  | | | |   | |  | |_| || |_| |    | |  </tspan>
+      <tspan x="0" dy="26"> |____/ |_|  |_||___|  |_|  |____/  \___/     |_|  </tspan>
+      <tspan x="0" dy="40">   Dmitry · Java · Spring · ML · IntelliJ Plugins</tspan>
+    </text>
+  </g>
+</svg>
